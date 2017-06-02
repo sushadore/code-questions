@@ -1,14 +1,18 @@
-<div class="my-nav">
-  <div class="container">
-    <ul>
-      <li>{{#link-to "index"}}Questions{{/link-to}}</li>
-    </ul>
-      <h1>You've got questions, we've got answers...</h1>
-      <hr>
-    <div class="row">
-      <div class="col-xs-8 col-xs-offset-2">
-        {{outlet}}
-      </div>
+
+<div class="container">
+  <div class="row "id="header">
+    <div class="col-xs-7">
+      <h1>Code Q & A Forum</h1>
+    </div>
+    <div class="col-xs-5">
+      <br><br><br>
+      <h4>you've got questions, someone's got an answer...</h4>
     </div>
   </div>
+  <div class="row">
+    <div class="col-xs-8 col-xs-offset-2">
+      {{outlet}}
+    </div>
+  </div>
+  {{#link-to "index"}}Home{{/link-to}}
 </div>
