@@ -10,7 +10,7 @@ A question/answer board for developers and other tech motivated folks.
 
 **2. Specs:**
   * Navigation: each page provides navigation buttons
-  * Question: Allows user to add question along with notes, their name. Automatically generates a date.
+  * Question: Allows user to add question along with notes, their name. Automatically generates a date-this may not be possible.
   * Questions: listed on home page along with author, provide a link to the associated answers
   * Questions: all answers and question editing capability(although this doesn't make any sense as answers will no longer be relevant if the question varies greatly, maybe include a reminder of this) on specific answer page
   * Answers: Allows users to add  answers to questions along with their name and and automatically generated date to keep answers relevant.
