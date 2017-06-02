@@ -1,0 +1,17 @@
+{
+  "name": "code-questions",
+  "description": "Small description for code-questions goes here",
+  "main": "",
+  "authors": [
+    "Susha Dore <susha.dore@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
