@@ -6,7 +6,7 @@
     "Susha Dore <susha.dore@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/sushadore/code-questions",
   "ignore": [
     "**/.*",
     "node_modules",
