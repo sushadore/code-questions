@@ -5,6 +5,6 @@
 <h3>Answers</h3>
 <ul>
   {{#each question.answers as |answer|}}
-  <li>{{answer.content}}</li>
+  <li>{{answer.content}}<br>By: {{answer.author}}<br>When: {{answer.date}}</li>
   {{/each}}
 </ul>
