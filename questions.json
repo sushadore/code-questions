@@ -1,0 +1,12 @@
+{ "questions": [{
+    "content": "Is Java just a shorter name for Javascript?",
+    "author": "Bobby Rick",
+    "notes": "I keep seeing Java and Javascript everywhere. This is totally confusing!!",
+    "date": "6~2~2017"
+  }, {
+    "content": "How much does Ember suck?",
+    "author": "Your Mom",
+    "notes": "I feel like I'm running into a useless brick wall. Help!! Someone deprecate this shit and yesterda!",
+    "date": "6~2~2017"
+  }]
+}
